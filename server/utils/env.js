@@ -3,7 +3,7 @@ const DB_COLLECTION_SONGS = "songs";
 const DB_COLLECTION_PLAYLISTS = "playlists";
 
 // TODO : fournir les bonnes informations de connexion (les <> doivent être enlevés)
-const DB_URL = "mongodb+srv://yassineseddaoui:yassine1@cluster0.mqotrap.mongodb.net/?retryWrites=true&w=majority";
+const DB_URL = "URL-HERE";
 
 exports.DB_DB = DB_DB;
 exports.DB_COLLECTION_SONGS = DB_COLLECTION_SONGS;
